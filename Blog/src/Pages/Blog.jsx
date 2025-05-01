@@ -3,41 +3,41 @@ import { Link } from 'react-router-dom'
 
 function Blog() {
   let post1= [
-    { id: "1", img: "blog/assets/image/1.jpg", title: "How much does a website development cost?", description: "Sharing of right agriculture knowledge and technology to the growers at right time motivates them to improve their crop productivity...", link: "/content/1" },
+    { id: "1", img: "/image/1.jpg", title: "How much does a website development cost?", description: "Sharing of right agriculture knowledge and technology to the growers at right time motivates them to improve their crop productivity..." },
   ]
   let post2 = [
-    { id: "2", img: "blog/assets/image/2.jpg", title: "What is corporate business Email?", description: "In the heart of the Himalayas, where lush landscapes and fertile soil meet, Nepal is increasingly embracing organic farming. As a country where agriculture plays a pivotal role in the economy, the shift towards organic practices offers a refreshing solution for both farmers and consumers..." },
+    { id: "2", img: "/image/2.jpg", title: "What is corporate business Email?", description: "In the heart of the Himalayas, where lush landscapes and fertile soil meet, Nepal is increasingly embracing organic farming. As a country where agriculture plays a pivotal role in the economy, the shift towards organic practices offers a refreshing solution for both farmers and consumers..." },
   ]
   let post3 = [
-    { id: "3", img: "blog/assets/image/3.jpg", title: "What is IT Audit ?", description: "Agriculture is the backbone of many economies worldwide, and Nepal is no exception. The country’s vast farming community..." },
+    { id: "3", img: "/image/3.jpg", title: "What is IT Audit ?", description: "Agriculture is the backbone of many economies worldwide, and Nepal is no exception. The country’s vast farming community..." },
     
-    { id: "4", img: "blog/assets/image/4.jpg", title: "How to keep data safe from Ransomware Attacks?", description: "Water is one of the most critical resources for farming in Nepal, especially as climate change and erratic rainfall patterns continue to...." }, 
+    { id: "4", img: "/image/4.jpg", title: "How to keep data safe from Ransomware Attacks?", description: "Water is one of the most critical resources for farming in Nepal, especially as climate change and erratic rainfall patterns continue to...." }, 
   ]
   let post4 = [
-    { id: "5", img: "blog/assets/image/5.jpg", title: "What is DataBanking?", description: "Agriculture has been the backbone of Nepal’s economy for centuries. However, traditional farming methods, while effective in the past, have often been inefficient..." },
+    { id: "5", img: "/image/5.jpg", title: "What is DataBanking?", description: "Agriculture has been the backbone of Nepal’s economy for centuries. However, traditional farming methods, while effective in the past, have often been inefficient..." },
 
-    { id: "6", img: "blog/assets/image/6.jpg", title: "The rise of Ecommerce ", description: "Agriculture is a vital part of Nepal’s economy, but farmers in the country face numerous challenges, including unpredictable weather, limited resources and traditional farming practices.." },
+    { id: "6", img: "/image/6.jpg", title: "The rise of Ecommerce ", description: "Agriculture is a vital part of Nepal’s economy, but farmers in the country face numerous challenges, including unpredictable weather, limited resources and traditional farming practices.." },
 
-    { id: "7", img: "blog/assets/image/7.jpg", title: "Digital Transformation for Economic Growth", description: "Livestock farming is a cornerstone of Nepal’s agricultural economy, with dairy and poultry farming playing a significant role in providing nutrition.." },
+    { id: "7", img: "/image/7.jpg", title: "Digital Transformation for Economic Growth", description: "Livestock farming is a cornerstone of Nepal’s agricultural economy, with dairy and poultry farming playing a significant role in providing nutrition.." },
   ]
   let post5 = [
-    { id: "8", img: "blog/assets/image/8.jpg", title: "IT Consulting & Solutions", description: "Agriculture remains the backbone of Nepal’s economy, with the majority of the population relying on farming for their livelihood. Recognizing this,..." },
+    { id: "8", img: "/image/8.jpg", title: "IT Consulting & Solutions", description: "Agriculture remains the backbone of Nepal’s economy, with the majority of the population relying on farming for their livelihood. Recognizing this,..." },
 
-    { id: "9", img: "blog/assets/image/9.jpg", title: "Why Your Business in Nepal Needs IT Consulting: A 2025 Perspective", description: "Climate change is one of the biggest challenges facing agriculture today. Rising temperatures, unpredictable rainfall, and extreme weather events are making..." },
+    { id: "9", img: "/image/9.jpg", title: "Why Your Business in Nepal Needs IT Consulting: A 2025 Perspective", description: "Climate change is one of the biggest challenges facing agriculture today. Rising temperatures, unpredictable rainfall, and extreme weather events are making..." },
   ]
   let post6 = [
-    { id: "10", img: "blog/assets/image/10.jpg", title: "How IT Consulting Can Reduce Costs and Improve Efficiency for SMEs in Nepal", description: "Selecting the right crops is crucial for successful farming, especially in a country like Nepal, where diverse climates and terrains influence agricultural productivity..." },
+    { id: "10", img: "/image/10.jpg", title: "How IT Consulting Can Reduce Costs and Improve Efficiency for SMEs in Nepal", description: "Selecting the right crops is crucial for successful farming, especially in a country like Nepal, where diverse climates and terrains influence agricultural productivity..." },
 
-    { id: "11", img: "blog/assets/image/11.jpg", title: "Custom Software vs Off-the-Shelf: What’s Best for Nepali Businesses?", description: "For small farmers in Nepal, harvesting crops is only half the battle. Without proper post-harvest management and storage solutions, a significant portion of produce.." },
+    { id: "11", img: "/image/11.jpg", title: "Custom Software vs Off-the-Shelf: What’s Best for Nepali Businesses?", description: "For small farmers in Nepal, harvesting crops is only half the battle. Without proper post-harvest management and storage solutions, a significant portion of produce.." },
   ]
   let post7 = [
-    { id: "12", img: "blog/assets/image/12.jpg", title: "A Beginner’s Guide to Choosing the Right IT Consultant in Kathmandu", description: "Organic farming is gaining popularity in Nepal as consumers become more conscious of their health and the environment..." },
+    { id: "12", img: "/image/12.jpg", title: "A Beginner’s Guide to Choosing the Right IT Consultant in Kathmandu", description: "Organic farming is gaining popularity in Nepal as consumers become more conscious of their health and the environment..." },
 
-    { id: "13", img: "blog/assets/image/13.jpg", title: "Digital Transformation in Nepal: Trends, Challenges & Opportunities", description: "For Nepalese farmers, maximizing crop yields is key to improving livelihoods and ensuring food security. With challenges like unpredictable weather..." },
+    { id: "13", img: "/image/13.jpg", title: "Digital Transformation in Nepal: Trends, Challenges & Opportunities", description: "For Nepalese farmers, maximizing crop yields is key to improving livelihoods and ensuring food security. With challenges like unpredictable weather..." },
 
-    { id: "14", img: "blog/assets/image/14.jpg", title: "How Nepali Businesses Can Embrace Cloud Computing Safely and Efficiently", description: "Farming isn’t just about growing crops, it’s a business that requires smart decision-making to ensure profitability..." },
+    { id: "14", img: "/image/14.jpg", title: "How Nepali Businesses Can Embrace Cloud Computing Safely and Efficiently", description: "Farming isn’t just about growing crops, it’s a business that requires smart decision-making to ensure profitability..." },
 
-    { id: "15", img: "blog/assets/image/15.jpg", title: "Top 5 Technologies Reshaping Business in Nepal (AI, Cloud, Automation, etc.)", description: "Agriculture has long been the backbone of Nepal’s economy, but in recent years, fewer young people are choosing farming as a career..." },
+    { id: "15", img: "/image/15.jpg", title: "Top 5 Technologies Reshaping Business in Nepal (AI, Cloud, Automation, etc.)", description: "Agriculture has long been the backbone of Nepal’s economy, but in recent years, fewer young people are choosing farming as a career..." },
   ]
 
   return (
@@ -53,13 +53,13 @@ function Blog() {
               <div className="blog-text py-2 px-2 text-gray-600">
                 <div className="title flex flex-col md:flex-row justify-between">
                   <h5 className='text-[20px] font-semibold text-[#4b4b4b] py-2'>{a.title}</h5>
-                  <Link to={`/blog/website-development-cost-nepal`}>
+                  <Link to={`/blog/${a.id}`}>
                     <button className='border hidden sm:block lg:block border-[#4b4b4b] text-[#4b4b4b] mt-4 rounded-lg px-2 py-1 my-2 gap-2 hover:bg-[#4b4b4b] hover:text-white'>Read More
                     </button>
                   </Link>
                 </div>
                 <p>{a.description}</p>
-                <Link to='/content1'>
+                <Link to={`/blog/${a.id}`}>
                   <button className='border block sm:hidden lg:hidden border-[#4b4b4b] text-[#4b4b4b] shadow mt-4 rounded-lg px-2 py-1 my-2 gap-2 hover:bg-[#4b4b4b] hover:text-white'>Read More
                   </button>
                 </Link>

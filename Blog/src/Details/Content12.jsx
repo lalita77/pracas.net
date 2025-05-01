@@ -7,7 +7,7 @@ function Content12() {
         <div className="container mx-auto max-w-[900px] px-4 lg:my-10">
 
           <div className="intro">
-            <img className='rounded-2xl w-full max-h-[450px] lg:h-[450px] my-5 object-cover' src="/blog/assets/image/12.jpg" alt="" />
+            <img className='rounded-2xl w-full max-h-[450px] lg:h-[450px] my-5 object-cover' src="/image/12.jpg" alt="" />
             <h4 className='text-[18px] Text-[#4b4b4b] mb-5 font-bold'>Sustainable Farming Practices in Nepal: How Consulting Services Can Help</h4>
             <p> <i>By: Anil Sharma, Agricultural Consultant and Writer<br />
               Published on: April 1, 2025</i>
