@@ -23,7 +23,7 @@ function Blog() {
   let post5 = [
     { id: "8", img: "/image/8.jpg", title: "IT Consulting & Solutions", description: "Agriculture remains the backbone of Nepal’s economy, with the majority of the population relying on farming for their livelihood. Recognizing this,..." },
 
-    { id: "9", img: "/image/9.jpg", title: "Why Your Business in Nepal Needs IT Consulting: A 2025 Perspective", description: "Climate change is one of the biggest challenges facing agriculture today. Rising temperatures, unpredictable rainfall, and extreme weather events are making..." },
+    { id: "9", img: "image/9.jpg", title: "Why Your Business in Nepal Needs IT Consulting: A 2025 Perspective", description: "Climate change is one of the biggest challenges facing agriculture today. Rising temperatures, unpredictable rainfall, and extreme weather events are making..." },
   ]
   let post6 = [
     { id: "10", img: "/image/10.jpg", title: "How IT Consulting Can Reduce Costs and Improve Efficiency for SMEs in Nepal", description: "Selecting the right crops is crucial for successful farming, especially in a country like Nepal, where diverse climates and terrains influence agricultural productivity..." },

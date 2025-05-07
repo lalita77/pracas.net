@@ -30,11 +30,11 @@ function Routing() {
         <Route path='/blog/6' element={<Content6/>}/>
         <Route path='/blog/7' element={<Content7/>}/>
         <Route path='/blog/8' element={<Content8/>}/>
-        <Route path='/blog/10' element={<Content9/>}/>
-        <Route path='/blog/11' element={<Content10/>}/>
-        <Route path='/blog/12' element={<Content11/>}/>
-        <Route path='/blog/13' element={<Content12/>}/>
-        <Route path='/blog/14' element={<Content13/>}/>
+        <Route path='/blog/9' element={<Content9/>}/>
+        <Route path='/blog/10' element={<Content10/>}/>
+        <Route path='/blog/11' element={<Content11/>}/>
+        <Route path='/blog/12' element={<Content12/>}/>
+        <Route path='/blog/13' element={<Content13/>}/>
         <Route path='/blog/14' element={<Content14/>}/>
         <Route path='/blog/15' element={<Content15/>}/>
       </Routes>
