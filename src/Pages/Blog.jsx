@@ -43,7 +43,6 @@ function Blog() {
   return (
     <>
       <section className="blog bg-[#f9f9f9]">
-        <h1 className='flex place-content-center text-center text-[45px] font-bold text-[#4b4b4b] py-10'>Blog</h1>
         <hr />
         {/* Blog_1 */}
         <div className="container mx-auto max-w-[1200px] mt-5 mb-10 px-4 lg:px-0">
