@@ -10,10 +10,10 @@ function Footer() {
                     <div className="footer flex justify-between py-8">
                         <h5 className='font-bold text-[25px] text-[#4b4b4b]'>PRACAS Blogs</h5>
                         <div className="social-icons flex gap-4">
-                            <img className='border rounded-full p-2 w-[35px] h-[35px] bg-white' src="public/social-icons/facebook.svg" alt="facebook" />
-                            <img className='border rounded-full p-2 w-[35px] h-[35px] bg-white' src="public/social-icons/twitter.svg" alt="twitter" />
-                            <img className='border rounded-full p-2 w-[35px] h-[35px] bg-white' src="public/social-icons/youtube.svg" alt="youtube" />
-                            <img className='border rounded-full p-2 w-[35px] h-[35px] bg-white' src="public/social-icons/instagram.svg" alt="instagram" />
+                            <img className='border rounded-full p-2 w-[35px] h-[35px] bg-white' src="/social-icons/facebook.svg" alt="facebook" />
+                            <img className='border rounded-full p-2 w-[35px] h-[35px] bg-white' src="/social-icons/twitter.svg" alt="twitter" />
+                            <img className='border rounded-full p-2 w-[35px] h-[35px] bg-white' src="/social-icons/youtube.svg" alt="youtube" />
+                            <img className='border rounded-full p-2 w-[35px] h-[35px] bg-white' src="/social-icons/instagram.svg" alt="instagram" />
                         </div>
                     </div>
 
@@ -33,16 +33,16 @@ function Footer() {
                             <h5 className='text-[15px] font-semibold'>Contact</h5>
                             <ul className='text-[13px] text-gray-500'>
                                 <li className='py-1'>Suchana Bibhag Darta # 123-081/82</li>
-                                <li className='py-1 flex'><img className='w-[16px] rounded-full h-[17px] bg-slate-200 border' src="public/footer/location.svg" alt="location" /> Kamalpokhari, Kathmandu, Nepal</li>
-                                <li className='py-1 flex'><img className='w-[16px] rounded-full h-[17px] bg-slate-200 border' src="public/footer/phone.svg" alt="phone" /> +977-1-12345678</li>
-                                <li className='py-1 flex'><img className='w-[16px] rounded-full h-[17px] bg-slate-200 border' src="public/footer/email.svg" alt="email" /> info@biratinfo.com</li>
+                                <li className='py-1 flex'><img className='w-[16px] rounded-full h-[17px] bg-slate-200 border' src="/footer/location.svg" alt="location" /> Kamalpokhari, Kathmandu, Nepal</li>
+                                <li className='py-1 flex'><img className='w-[16px] rounded-full h-[17px] bg-slate-200 border' src="/footer/phone.svg" alt="phone" /> +977-1-12345678</li>
+                                <li className='py-1 flex'><img className='w-[16px] rounded-full h-[17px] bg-slate-200 border' src="/footer/email.svg" alt="email" /> info@biratinfo.com</li>
                             </ul>
                         </div>
 
                         <div className="list">
                             <h5 className='text-[15px] font-semibold'>Download Our App</h5>
-                            <img className='w-[145px] py-2' src="public/footer/google-play.webp" alt="" />
-                            <img className='w-[145px]' src="public/footer/app-store.webp" alt="" />
+                            <img className='w-[145px] py-2' src="/footer/google-play.webp" alt="" />
+                            <img className='w-[145px]' src="/footer/app-store.webp" alt="" />
                         </div>
                     </div>
                 </div>

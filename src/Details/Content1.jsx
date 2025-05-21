@@ -45,7 +45,7 @@ function Content1() {
 
               <h5 className='font-semibold text-[18px]'>5. Layout sketch</h5>
               <p className='my-5'>After creating the slug and site map, the states we need to follow are loud which can be drawn in plain paper, wireframing, tools, like Sigma, adobe, XD, Mero, balsamic etc.</p>
-              <img className='my-10' src="/image/content1-image/1.png" alt="" />
+              <img className='my-10 rounded-2xl w-full max-h-[450px] lg:h-[450px] object-cover' src="/image/content1-image/1.png" alt="" />
 
 
               <h5 className='font-semibold text-[18px]'>6. Content creation</h5>
@@ -66,7 +66,7 @@ function Content1() {
               <h5 className='font-semibold text-[18px]'>11. Front end Programming </h5>
               <p className='my-5'>Developers need proper guidance to make a great website, after crossing a few steps like site map, wireframing to prototypes and mockups this helps developers to better understand to make the final product. Based on the requirements for making a website and after developing the website and releasing it on the Internet, we need to understand and adapt any frameworks or languages to make the website.</p>
 
-              <img className='my-10' src="/image/content1-image/2.png" alt="" />
+              <img className='rounded-2xl w-full max-h-[450px] lg:h-[450px] my-10 object-cover' src="/image/content1-image/2.png" alt="" />
 
               <h5 className='font-semibold text-[18px]'>12. Quality Assurance</h5>
               <p className='my-5'>After being developed, the front end, or we can say the starting site should be properly quality assured. The link should be checked, file naming system, local to remote link , meta description, file size, file format, resolution, and the file size of the website must be checked under this phase.</p>
@@ -89,7 +89,7 @@ function Content1() {
               <h5 className='font-semibold text-[18px]'>15. API planning</h5>
               <p className='my-5'>If we are making a website using JAM stack or headless CMS technology, we can have an API which directly fetches data from the data sources and makes the website easy to manage by a simple CMS technology  rather than having heavy stuff or unnecessary bunch of codes.</p>
 
-              <img className='my-10' src="/image/content1-image/3.png" alt="" />
+              <img className='rounded-2xl w-full max-h-[450px] lg:h-[450px] object-cover' src="/image/content1-image/3.png" alt="" />
 
               <h5 className='font-semibold text-[18px]'>16. Backend management</h5>
               <p className='my-5'>To manage the website, create new pages, post update the content, change photos and to do various other things and websites it is needed to manage the backend.</p>
@@ -103,7 +103,7 @@ function Content1() {
               <h5 className='font-semibold text-[18px]'>19. QA</h5>
               <p className='my-5'>After having all the things covered, managed and developed for the best website, we need to have a proper quality assurance before upgrading the website on the Internet, so this phase can be a double checking system that we have done earlier in our static website.</p>
 
-              <img className='my-10' src="/image/content1-image/4.png" alt="" />
+              <img className='rounded-2xl w-full max-h-[450px] lg:h-[450px] my-10 object-cover' src="/image/content1-image/4.jpeg" alt="" />
 
               <h5 className='font-semibold text-[18px]'>20. Domain name mapping</h5>
               <p className='my-5'>After deploying a website on the server, we can check it in any third-party system or sometimes we need to have our own domain only for testing purposes, but to make a website live and easy to understand by the public. We should have domain name and it is necessary to map the dominium using Name server, A records or AAAA records.</p>
