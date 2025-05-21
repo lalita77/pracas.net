@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 
 function Blog() {
   let post1= [
-    { id: "1", img: "/image/1.jpg", title: "How much does a website development cost?", description: "Sharing of right agriculture knowledge and technology to the growers at right time motivates them to improve their crop productivity..." },
+    { id: "1", img: "/image/1.jpg", title: "21 stages of effective web development", description: "Websites play a crucial role in every business growth. It is the front face of every business organization or any product brand or services around the globe. Having a website makes a business cross the boundaries and can cater its products, services or brand image globally..." },
   ]
   let post2 = [
     { id: "2", img: "/image/2.jpg", title: "What is corporate business Email?", description: "In the heart of the Himalayas, where lush landscapes and fertile soil meet, Nepal is increasingly embracing organic farming. As a country where agriculture plays a pivotal role in the economy, the shift towards organic practices offers a refreshing solution for both farmers and consumers..." },
