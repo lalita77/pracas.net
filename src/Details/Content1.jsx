@@ -91,7 +91,7 @@ function Content1() {
 
               <img className='rounded-2xl w-full max-h-[450px] lg:h-[450px] object-cover' src="/image/content1-image/3.png" alt="" />
 
-              <h5 className='font-semibold text-[18px]'>16. Backend management</h5>
+              <h5 className='font-semibold text-[18px] mt-5'>16. Backend management</h5>
               <p className='my-5'>To manage the website, create new pages, post update the content, change photos and to do various other things and websites it is needed to manage the backend.</p>
 
               <h5 className='font-semibold text-[18px]'>17. CMS development</h5>

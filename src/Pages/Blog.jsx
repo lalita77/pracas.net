@@ -6,12 +6,12 @@ function Blog() {
     { id: "1", img: "/image/blog/1.jpg", title: "21 stages of effective web development", description: "Websites play a crucial role in every business growth. It is the front face of every business organization or any product brand or services around the globe. Having a website makes a business cross the boundaries and can cater its products, services or brand image globally..." },
   ]
   let post2 = [
-    { id: "2", img: "/image/blog/2.jpg", title: "What is a Corporate/Business Email?", description: "In today's competitive business environment, establishing a professional online presence is essential for building trust and enhancing communication. Corporate emails or business emails tied to a custom domain play a pivotal role in shaping an organization's identity and credibility..." },
+    { id: "2", img: "/image/content2-image/1.png", title: "What is a Corporate/Business Email?", description: "In today's competitive business environment, establishing a professional online presence is essential for building trust and enhancing communication. Corporate emails or business emails tied to a custom domain play a pivotal role in shaping an organization's identity and credibility.." },
   ]
   let post3 = [
-    { id: "3", img: "/image/blog/3.jpg", title: "Things to keep in business website", description: "A well-rounded business website should serve as a valuable online asset for your company. A website is a collection of related web pages and digital content that are typically accessible via the internet. It is hosted on a web server and can be accessed using a web browser..." },
+    { id: "3", img: "/image/content3-image/1.png", title: "Things to keep in business website", description: "A well-rounded business website should serve as a valuable online asset for your company. A website is a collection of related web pages and digital content that are typically accessible via the internet. It is hosted on a web server and can be accessed using a web browser..." },
     
-    { id: "4", img: "/image/blog/4.jpg", title: "How to keep data safe from Ransomware Attacks?", description: "Water is one of the most critical resources for farming in Nepal, especially as climate change and erratic rainfall patterns continue to...." }, 
+    { id: "4", img: "/image/content4-image/1.png", title: "Pegasus spyware - You are hacked", description: "Flashback of just two decades in Nepal, it was hard to see people carrying bar phones. The dream of people was not a smart phone but basic one. NOKIA, Ericsson, Sony etc were market leader and the most important factor was a basic connectivity, upgrading from pager..." }, 
   ]
   let post4 = [
     { id: "5", img: "/image/blog/5.jpg", title: "What is DataBanking?", description: "Agriculture has been the backbone of Nepal’s economy for centuries. However, traditional farming methods, while effective in the past, have often been inefficient..." },
