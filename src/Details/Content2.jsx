@@ -14,10 +14,10 @@ function Content2() {
             </p>
 
             <p className='text-justify pt-4'>
-              In today's competitive business environment, establishing a professional online presence is essential for building trust and enhancing communication. Corporate emails or business emails tied to a custom domain play a pivotal role in shaping an organization's identity and credibility.
+              In today's competitive business environment, establishing a professional online presence is essential for building trust and enhancing communication. <b>Corporate emails</b> or <b>business emails</b> tied to a custom domain play a pivotal role in shaping an organization's identity and credibility.
               
               <br /> <br />
-              A corporate email is a professional email address linked to a company's custom domain (e.g., <a className='text-[#0a66c2] font-semibold' href="info@yourcompany.com">info@yourcompany.com</a> ) rather than generic providers like Gmail or Yahoo. For example:
+              A <b>corporate email</b> is a professional email address linked to a company's custom domain (e.g., <a className='text-[#0a66c2] font-semibold' href="info@yourcompany.com">info@yourcompany.com</a> ) rather than generic providers like Gmail or Yahoo. For example:
             </p>
 
             <ul className="list list-disc ps-4 pt-2">
@@ -33,53 +33,79 @@ function Content2() {
 
           <div className="second-paragraph">
             <h4 className='font-semibold text-[25px] my-5'>Professionalism</h4>
-            <p>A custom domain email, such as name@yourbusiness.com, signifies legitimacy and organizational seriousness. When clients receive emails from a business-specific domain, it demonstrates a structured and professional approach, which can be a key differentiator in a competitive market.</p>
+            <p>A custom domain email, such as <a className='text-[#0a66c2] font-semibold' href="name@yourbusiness.com">name@yourbusiness.com</a> , signifies legitimacy and organizational seriousness. When clients receive emails from a business-specific domain, it demonstrates a structured and professional approach, which can be a key differentiator in a competitive market.</p>
 
-            <div className="point">
-              <p className='my-5'><b>1. First Impressions Matter: </b>An email like <a href="info@yourcompany.com">info@yourcompany.com</a> appears more credible compared to a generic one such as <a href="yourcompany@gmail.com">yourcompany@gmail.com</a>. This subtle detail can influence client perceptions during initial interactions.</p>
+            <ul className="point list-disc ps-4">
+              <li className='my-5'><b>First Impressions Matter:</b> An email like <a className='text-[#0a66c2] font-semibold' href="info@yourcompany.com">info@yourcompany.com</a> appears more credible compared to a generic one such as <a className='text-[#0a66c2] font-semibold'href="yourcompany@gmail.com">yourcompany@gmail.com</a>. This subtle detail can influence client perceptions during initial interactions.</li>
 
-              <p className='my-5'><b>2. B2B Engagement:</b> Especially in corporate or B2B settings, stakeholders expect professionalism at every touchpoint, including email communication.</p>
-            </div>
+              <li className='my-5'><b>B2B Engagement:</b> Especially in corporate or B2B settings, stakeholders expect professionalism at every touchpoint, including email communication.</li>
+            </ul>
           </div>
 
-          <div className="second-paragraph">
+          <div className="third-paragraph">
             <h4 className='font-semibold text-[25px] my-5'>Reinforces Brand Identity</h4>
             <p>Every communication via a custom domain email reinforces your brand, increasing its recall and recognition.</p>
 
-            <div className="point">
-              <p className='my-5'><b>1. Consistency Across Channels:</b> Using your domain name in emails ensures that your branding is consistent across digital and print mediums.</p>
+            <ul className="point list-disc ps-4">
+              <li className='my-5'><b>Consistency Across Channels:</b> Using your domain name in emails ensures that your branding is consistent across digital and print mediums.</li>
 
-              <p className='my-5'><b>2. Marketing Advantage: </b>Your email domain acts as a mini advertisement. Each email sent becomes a subtle reminder of your brand’s presence.</p>
+              <li className='my-5'><b>Marketing Advantage: </b>Your email domain acts as a mini advertisement. Each email sent becomes a subtle reminder of your brand’s presence.</li>
 
-               <p className='my-5'><b>3. Prevents Identity Confusion: </b> Generic domains fail to establish a unique connection with your brand, risking confusion with competitors or unrelated entities.</p>
-            </div>
+               <li className='my-5'><b>Prevents Identity Confusion: </b> Generic domains fail to establish a unique connection with your brand, risking confusion with competitors or unrelated entities.</li>
+            </ul>
           </div>
 
-           <div className="second-paragraph">
+           <div className="fourth-paragraph">
             <h4 className='font-semibold text-[25px] my-5'>Trust and Credibility</h4>
             <p>A business email fosters trust among clients, partners, and vendors. It distinguishes you as a legitimate, established entity, unlike generic email domains often used for personal communications or scams.</p>
 
-            <div className="point">
-              <p className='my-5'><b>1. Professional Validation: </b>Clients are more likely to trust an email from support@yourbrand.com rather than support123@gmail.com.</p>
+            <ul className="point list-disc ps-4">
+              <li className='my-5'><b>Professional Validation: </b>Clients are more likely to trust an email from <a className='text-[#0a66c2] font-semibold' href="support@yourbrand.com">support@yourbrand.com</a> rather than <a className='text-[#0a66c2] font-semibold' href="support123@gmail.com">support123@gmail.com</a>.</li>
 
-              <p className='my-5'><b>2. Minimizing Fraud Concerns: </b> Custom domains help ensure your emails aren’t dismissed as potential phishing or spam attempts.</p>
-            </div>
+              <li className='my-5'><b>Minimizing Fraud Concerns: </b> Custom domains help ensure your emails aren’t dismissed as potential phishing or spam attempts.</li>
+            </ul>
           </div>
 
-           <div className="second-paragraph">
+           <div className="fifth-paragraph">
             <h4 className='font-semibold text-[25px] my-5'>Improved Email Deliverability</h4>
             <p>Generic emails often face higher risks of being flagged as spam due to their widespread use by spammers. In contrast, emails sent from a custom domain enjoy higher deliverability rates.</p>
 
-            <div className="point">
-              <p className='my-5'><b>1. Professional Validation: </b>Reduced Spam Flagging: Custom domains with proper SPF, DKIM, and DMARC configurations enhance email authenticity.</p>
+            <ul className="point list-disc ps-4">
+              <li className='my-5'><b>Reduced Spam Flagging: </b>Custom domains with proper SPF, DKIM, and DMARC configurations enhance email authenticity.</li>
 
-              <p className='my-5'><b>2. Minimizing Fraud Concerns: </b> Custom domains help ensure your emails aren’t dismissed as potential phishing or spam attempts.</p>
-            </div>
+              <li className='my-5'> <b>Better Client Engagement: </b> Emails reaching the inbox rather than the spam folder ensure better engagement, response rates, and overall customer satisfaction.</li>
+            </ul>
+            <img className='rounded-2xl w-full max-h-[450px] lg:h-[450px] my-5 object-cover' src="/image/content2-image/2.png" alt="" />
           </div>
 
+           <div className="sixth-paragraph">
+            <h4 className='font-semibold text-[25px] my-5'>Centralized Management</h4>
+            <p>Custom email solutions, especially through providers like Google Workspace or Microsoft 365, come with administrative tools that streamline email management across your organization.</p>
 
+            <ul className="point list-disc ps-4">
+              <li className='my-5'><b>User Account Management:</b> Easily create, update, and deactivate user accounts as employees join or leave.</li>
+
+              <li className='my-5'><b>Team Collaboration: </b>Features like shared calendars, task management, and file-sharing integrations simplify team collaboration.</li>
+
+              <li className='my-5'><b>Scalability: </b>Business email solutions can scale as your team grows, making them suitable for startups and large enterprises alike.</li>
+            </ul>
+          </div>
+
+          <div className="seventh-paragraph">
+            <h4 className='font-semibold text-[25px] my-5'>Enhanced Security and Compliance</h4>
+            <p>Custom business email services provide advanced security protocols that protect sensitive corporate information.</p>
+
+            <ul className="point list-disc ps-4">
+              <li className='my-5'><b>Encryption: </b> Secure your communications against interception with encryption technologies provided by business-grade email platforms.</li>
+
+              <li className='my-5'><b>Two-Factor Authentication (2FA):</b> Adds an extra layer of security, minimizing the risk of unauthorized access.</li>
+
+              <li className='my-5'><b>Regulatory Compliance:</b> For industries with strict regulations (e.g., healthcare, finance), custom business emails often include compliance features like data loss prevention and archiving.</li>
+            </ul>
+             <p>Choosing a custom domain or business email is more than just a technical upgrade—it’s a strategic investment in your brand’s reputation, security, and efficiency. It showcases your commitment to professionalism, enhances trust, and empowers your team with robust communication tools. Whether you’re a startup, an SME, or a large enterprise, a custom email solution can be a pivotal step in building a sustainable and credible business identity.</p>
+          </div>       
         </div>
-      </section>
+      </section>  
     </>
   )
 }
