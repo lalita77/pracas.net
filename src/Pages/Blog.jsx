@@ -14,7 +14,7 @@ function Blog() {
     { id: "4", img: "/image/content4-image/1.png", title: "Pegasus spyware - You are hacked", description: "Flashback of just two decades in Nepal, it was hard to see people carrying bar phones. The dream of people was not a smart phone but basic one. NOKIA, Ericsson, Sony etc were market leader and the most important factor was a basic connectivity, upgrading from pager..." }, 
   ]
   let post4 = [
-    { id: "5", img: "/image/blog/5.jpg", title: "What is DataBanking?", description: "Agriculture has been the backbone of Nepal’s economy for centuries. However, traditional farming methods, while effective in the past, have often been inefficient..." },
+    { id: "5", img: "/image/blog/5.jpg", title: "The unmanaged website", description: "During my college days at Hyderabad (2000-2006). I was keen interested to make a personal website, this was a great dream for someone in 2003. As my personal email was unable to get registered as..." },
 
     { id: "6", img: "/image/blog/6.jpg", title: "The rise of Ecommerce ", description: "Agriculture is a vital part of Nepal’s economy, but farmers in the country face numerous challenges, including unpredictable weather, limited resources and traditional farming practices.." },
 
