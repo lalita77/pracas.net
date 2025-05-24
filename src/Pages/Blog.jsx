@@ -6,10 +6,10 @@ function Blog() {
     { id: "1", img: "/image/blog/1.jpg", title: "21 stages of effective web development", description: "Websites play a crucial role in every business growth. It is the front face of every business organization or any product brand or services around the globe. Having a website makes a business cross the boundaries and can cater its products, services or brand image globally..." },
   ]
   let post2 = [
-    { id: "2", img: "/image/blog/2.jpg", title: "What is corporate business Email?", description: "In the heart of the Himalayas, where lush landscapes and fertile soil meet, Nepal is increasingly embracing organic farming. As a country where agriculture plays a pivotal role in the economy, the shift towards organic practices offers a refreshing solution for both farmers and consumers..." },
+    { id: "2", img: "/image/blog/2.jpg", title: "What is a Corporate/Business Email?", description: "In today's competitive business environment, establishing a professional online presence is essential for building trust and enhancing communication. Corporate emails or business emails tied to a custom domain play a pivotal role in shaping an organization's identity and credibility..." },
   ]
   let post3 = [
-    { id: "3", img: "/image/blog/3.jpg", title: "What is IT Audit ?", description: "Agriculture is the backbone of many economies worldwide, and Nepal is no exception. The country’s vast farming community..." },
+    { id: "3", img: "/image/blog/3.jpg", title: "Things to keep in business website", description: "A well-rounded business website should serve as a valuable online asset for your company. A website is a collection of related web pages and digital content that are typically accessible via the internet. It is hosted on a web server and can be accessed using a web browser..." },
     
     { id: "4", img: "/image/blog/4.jpg", title: "How to keep data safe from Ransomware Attacks?", description: "Water is one of the most critical resources for farming in Nepal, especially as climate change and erratic rainfall patterns continue to...." }, 
   ]

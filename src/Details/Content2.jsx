@@ -8,7 +8,7 @@ function Content2() {
 
           <div className="intro">
             <img className='rounded-2xl w-full max-h-[450px] lg:h-[450px] my-5 object-cover' src="/image/content2-image/1.png" alt="" />
-            <h4 className='text-[18px] Text-[#4b4b4b] mb-5 font-bold'>Sustainable Farming Practices in Nepal: How Consulting Services Can Help</h4>
+            <h4 className='text-[18px] Text-[#4b4b4b] mb-5 font-bold'>What is a Corporate/Business Email?</h4>
             <p> <i>Pracas Upreti, Information Technology Consultant<br />
               Published on: November 30, 2024</i>
             </p>
