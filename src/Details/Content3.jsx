@@ -80,7 +80,7 @@ function Content3() {
             <ul className="point">
               <li className='my-5'>1. Web Pages: Websites consist of individual web pages, each containing text, images, videos, and other multimedia elements. These pages are interconnected through links.</li>
 
-              <li className='my-5'>2. Domain Name: Websites are typically identified by a unique domain name (e.g., <a className='font-semibold text-[#0a66c2]' href="www.example.com">www.example.com</a>), which serves as the web address for accessing the site.</li>
+              <li className='my-5'>2. Domain Name: Websites are typically identified by a unique domain name (e.g., <a className='font-semibold text-[#0a66c2]' href="https://www.example.com/" target='blank'>www.example.com</a>), which serves as the web address for accessing the site.</li>
 
               <li className='my-5'>3. Navigation: Websites use menus, links, and navigation bars to help users move between different web pages and sections of the site.</li>
 
