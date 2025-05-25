@@ -16,9 +16,9 @@ function Blog() {
   let post4 = [
     { id: "5", img: "/image/content5-image/1.png", title: "The unmanaged website", description: "During my college days at Hyderabad (2000-2006). I was keen interested to make a personal website, this was a great dream for someone in 2003. As my personal email was unable to get registered as..." },
 
-    { id: "6", img: "/image/blog/6.jpg", title: "The rise of Ecommerce ", description: "Agriculture is a vital part of Nepal’s economy, but farmers in the country face numerous challenges, including unpredictable weather, limited resources and traditional farming practices.." },
+    { id: "6", img: "public/image/content6-image/1.jpeg", title: "The rise of Ecommerce ", description: "Agriculture is a vital part of Nepal’s economy, but farmers in the country face numerous challenges, including unpredictable weather, limited resources and traditional farming practices.." },
 
-    { id: "7", img: "/image/blog/7.jpg", title: "Digital Transformation for Economic Growth", description: "Livestock farming is a cornerstone of Nepal’s agricultural economy, with dairy and poultry farming playing a significant role in providing nutrition.." },
+    { id: "7", img: "/public/image/content7-image/1.jpeg", title: "Digital Transformation for Economic Growth", description: "Livestock farming is a cornerstone of Nepal’s agricultural economy, with dairy and poultry farming playing a significant role in providing nutrition.." },
   ]
   let post5 = [
     { id: "8", img: "/image/blog/8.jpg", title: "IT Consulting & Solutions", description: "Agriculture remains the backbone of Nepal’s economy, with the majority of the population relying on farming for their livelihood. Recognizing this,..." },
